@@ -1,4 +1,4 @@
-#🎓 Information Technology student with a strong interest in emerging technologies<br>💻 Passionate about software development, problem-solving, and logical thinking<br>📚 Currently learning programming, databases, and modern web technologies<br>🔧 Enjoy turning ideas into real-world applications through code<br>🚀 Enthusiastic about continuous learning and building innovative projects
+🎓 Information Technology student with a strong interest in emerging technologies<br>💻 Passionate about software development, problem-solving, and logical thinking<br>📚 Currently learning programming, databases, and modern web technologies<br>🔧 Enjoy turning ideas into real-world applications through code<br>🚀 Enthusiastic about continuous learning and building innovative projects
 
 
 ## 🌐 Socials:
